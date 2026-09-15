@@ -1,5 +1,6 @@
-import lab1.FizzBuzz;
-
-void main() {
-    FizzBuzz.doFizzBuzz(5);
+package lab1;
+public class Main{
+    public static void main() {
+        FizzBuzz.doFizzBuzz(5);
+    }
 }
